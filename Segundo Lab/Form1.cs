@@ -36,6 +36,8 @@ namespace Segundo_Lab
             {
                 MessageBox.Show("La función 2 no cumple con el formato esperado.");
             }
+
+            //asdad
         }
     }
 }
