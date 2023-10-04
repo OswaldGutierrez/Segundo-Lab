@@ -167,6 +167,7 @@
             buttonCalcular.TabIndex = 10;
             buttonCalcular.Text = "Calcular";
             buttonCalcular.UseVisualStyleBackColor = true;
+            buttonCalcular.Click += buttonCalcular_Click;
             // 
             // Form1
             // 
